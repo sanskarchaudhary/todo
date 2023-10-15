@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.container{
+    height: 100vh;
+    margin-top: 40px;
+   text-align: center;
+    
+}
+input{
+    padding: 6px;
+}
+button{
+    width: 50px;
+    padding: 6px;
+    cursor: pointer;
+}
+.text-area.checked{
+    text-decoration: line-through;
+}
+.symbol{
+    width:30px;
+    height: 30px;
+    margin-left: 5px;
+    text-align: center;
+}
